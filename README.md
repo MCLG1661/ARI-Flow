@@ -110,9 +110,9 @@ Marcus Corrêa Lopes Guedes
 
 Profissional com atuação multidisciplinar em Marketing, Gestão, Inteligência Artificial, Data Analytics, Projetos e Transformação Digital, desenvolvendo soluções que conectam estratégia de negócios, tecnologia e dados.
 
-LinkedIn: [Marcus Corrêa Lopes Guedes https://www.linkedin.com/in/marcusguedes/]
+LinkedIn: Marcus Guedes [https://www.linkedin.com/in/marcusguedes/]
 
-GitHub: [MCLG1661 https://github.com/MCLG1661]  
+GitHub: MCLG1661 [https://github.com/MCLG1661]  
 
 ---
 
