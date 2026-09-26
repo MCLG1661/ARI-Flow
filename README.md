@@ -108,12 +108,12 @@ plataformas utilizadas.
 
 ---
 
-🙏 Agradecimentos
+## 🙏 Agradecimentos
 Este projeto foi desenvolvido a partir dos conhecimentos e desafios propostos na Imersão ONE — Agentes de IA para Negócios, promovida pela Oracle Next Education (ONE) em parceria com a Alura.
 
 Meu agradecimento a **Amanda Gelembauskas (Latam Head of Oracle Next Education)**, aos instrutores, **Christian Velasco (Diretor da Alura Latam)**, **Eric Oliveira (Supervisor de conteúdo na Alura Latam)** e **Leon Kulikoswki (Senior Solution Engineering Manager na Oracle)**, aos especialistas e às equipes da **Oracle** e da **Alura** pela iniciativa, pelo conteúdo compartilhado e pela oportunidade de explorar, na prática, a aplicação de agentes de Inteligência Artificial em problemas reais de negócio.
 
-Durante essa jornada, o **ARI NEWS** e o **DealCraft AI** representaram as primeiras aplicações práticas desenvolvidas a partir dos exercícios da Imersão, explorando o uso de agentes de IA na coleta, organização e transformação e automação.
+Durante essa jornada, o **ARI NEWS** e o **DealCraft AI** representaram as primeiras aplicações práticas desenvolvidas a partir dos exercícios da Imersão, explorando o uso de agentes de IA na coleta, organização e transformação e automação de informações e processos.
 
 A evolução desse aprendizado levou ao desenvolvimento do **ARI FLOW**, um projeto independente voltado à automação inteligente de triagem e atendimento por e-mail. A solução amplia a aplicação dos conceitos trabalhados durante a Imersão ao integrar classificação de mensagens com IA generativa, roteamento condicional, consulta a uma base de conhecimento estruturada, geração contextualizada de respostas e automação do fluxo de e-mails. O projeto também incorpora uma estratégia de Human-in-the-Loop, direcionando mensagens fora do escopo para tratamento humano e reduzindo o risco de respostas inadequadas ou não fundamentadas. A arquitetura integra Make, Google Gemini, Gmail e Google Drive, transformando um processo operacional recorrente em um fluxo automatizado, controlado e escalável.
 
@@ -121,7 +121,7 @@ Mais do que concluir exercícios isolados, o objetivo foi transformar o aprendiz
 
 ---
 
-👤 Autor
+## 👤 Autor
 Marcus Corrêa Lopes Guedes
 
 Profissional com atuação multidisciplinar em Marketing, Gestão, Inteligência Artificial, Data Analytics, Projetos e Transformação Digital, desenvolvendo soluções que conectam estratégia de negócios, tecnologia e dados.
@@ -137,9 +137,9 @@ GitHub: [MCLG1661](https://github.com/MCLG1661)
 ✅ Classificação automática de e-mails  
 ✅ Roteamento condicional  
 ✅ Consulta à base de conhecimento  
+✅ Knowledge Grounding com base documental  
 ✅ Geração de respostas com IA  
 ✅ Envio automático de respostas  
-✅ Tratamento de mensagens fora do escopo  
-✅ Human-in-the-loop  
+✅ Human-in-the-Loop para mensagens fora do escopo  
 ✅ Execução automatizada
 
