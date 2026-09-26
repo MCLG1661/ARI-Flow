@@ -15,6 +15,12 @@ tratamento humano.
 
 ---
 
+## Arquitetura Visual
+
+![Arquitetura do ARI Flow](assets/ari-flow-architecture.png)
+
+---
+
 ## Problema de Negócio
 
 Equipes que recebem grande volume de solicitações por e-mail precisam dedicar
