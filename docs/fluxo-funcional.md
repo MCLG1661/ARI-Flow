@@ -79,7 +79,6 @@ Essa decisão implementa o princípio de Human-in-the-Loop e evita que a IA resp
 | Situação | Ação |
 |---|---|
 | Dúvida relacionada a Oracle Cloud Applications | Consultar base, gerar resposta e enviar ao remetente |
-| Mensagem fora do escopo | Não responder automaticamente |
 | Mensagem fora do escopo | Encaminhar para tratamento humano |
 
 ## Resultado Operacional
