@@ -44,6 +44,16 @@ Gmail → Tratamento humano
 
 ---
 
+## Documentação
+
+A documentação técnica detalhada do ARI Flow está organizada nos seguintes documentos:
+
+- [Arquitetura da Solução](docs/arquitetura.md) — componentes, integrações, decisões arquiteturais, Knowledge Grounding e Human-in-the-Loop.
+- [Fluxo Funcional](docs/fluxo-funcional.md) — processamento passo a passo, regras de decisão e comportamento das duas rotas.
+- [Segurança, Governança e Limitações](docs/seguranca-e-limitacoes.md) — credenciais, guardrails, limitações conhecidas, quotas da API e possibilidades de evolução.
+
+---
+
 ## Como o fluxo funciona
 
 1. O Gmail monitora novas mensagens.
