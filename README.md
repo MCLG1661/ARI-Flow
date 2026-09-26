@@ -107,9 +107,11 @@ Mais do que concluir exercícios isolados, o objetivo foi transformar o aprendiz
 
 👤 Autor
 Marcus Corrêa Lopes Guedes
+
 Profissional com atuação multidisciplinar em Marketing, Gestão, Inteligência Artificial, Data Analytics, Projetos e Transformação Digital, desenvolvendo soluções que conectam estratégia de negócios, tecnologia e dados.
 
 LinkedIn: Marcus Corrêa Lopes Guedes
+
 GitHub: MCLG1661
 
 ---
