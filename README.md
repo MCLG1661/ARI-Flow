@@ -1,4 +1,14 @@
-# ARI Flow — Agente Inteligente para Automação de E-mails
+# ARI Flow — AI-Powered Email Workflow Automation
+
+> Case de automação inteligente de atendimento por e-mail, com classificação por IA, grounding documental e roteamento condicional para Oracle Cloud Applications.
+
+![Make](https://img.shields.io/badge/Make-Workflow%20Automation-6D00CC)
+![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4)
+![Gmail](https://img.shields.io/badge/Gmail-Integration-EA4335)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-Knowledge%20Base-34A853)
+![Status](https://img.shields.io/badge/Status-Documented%20Prototype-orange)
+
+**Status:** protótipo documentado de automação no Make. Este repositório disponibiliza arquitetura e documentação técnica, não um blueprint importável ou uma aplicação executável localmente.
 
 ---
 
@@ -89,6 +99,10 @@ A documentação técnica detalhada do ARI Flow está organizada nos seguintes d
 
 ---
 
+## Aplicações potenciais em serviços B2B
+
+Mediante adaptação e validação, o padrão arquitetural pode apoiar triagem de solicitações, atendimento de dúvidas recorrentes, encaminhamento de tickets e organização de caixas de entrada. Não há métricas de economia de tempo, acurácia ou retorno financeiro validadas neste repositório.
+
 ## Human-in-the-Loop
 
 O ARI Flow utiliza uma estratégia de human-in-the-loop.
@@ -100,6 +114,10 @@ Essa abordagem reduz o risco de respostas inadequadas e mantém supervisão huma
 nos casos fora do escopo da automação.
 
 ---
+
+## Reprodução e implantação
+
+Para reproduzir o cenário, é necessário configurar as conexões autenticadas no Make, disponibilizar uma base documental autorizada no Google Drive e reconstruir as rotas conforme o [fluxo funcional](docs/fluxo-funcional.md). Antes de habilitar envios automáticos, recomenda-se testar em uma caixa de entrada controlada e validar classificação, respostas, tratamento de falhas e permissões.
 
 ## Segurança
 
