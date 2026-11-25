@@ -15,6 +15,14 @@ tratamento humano.
 
 ---
 
+## Escopo e aplicação empresarial
+
+Este case documenta uma automação específica para Oracle Cloud Applications. A arquitetura pode servir como referência para triagem de solicitações em outros serviços B2B, mediante adaptação da base de conhecimento, regras de roteamento e controles de segurança. Não representa um produto genérico pronto para implantação em qualquer empresa.
+
+Projetos complementares: [DealCraft AI](https://github.com/MCLG1661/DealCraft-AI) e [Marketing Intelligence AI](https://github.com/MCLG1661/Marketing-Intelligence-AI). Não há integração técnica entre esses projetos documentada aqui.
+
+---
+
 ## Arquitetura Visual
 
 ![Arquitetura do ARI Flow](assets/ari-flow-architecture.png)
