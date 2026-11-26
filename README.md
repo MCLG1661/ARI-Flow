@@ -15,6 +15,9 @@
 
 A documented Make automation prototype for email triage and contextual responses related to Oracle Cloud Applications. Gmail, Gemini and Google Drive support classification, knowledge grounding and conditional routing, with out-of-scope messages directed to human review. The repository provides architecture and documentation, not an importable blueprint or standalone executable.
 
+
+[Business Case Study — English](BUSINESS_CASE.md)
+
 ---
 
 ## Visão Geral
