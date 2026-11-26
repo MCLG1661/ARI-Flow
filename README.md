@@ -10,6 +10,11 @@
 
 **Status:** protótipo documentado de automação no Make. Este repositório disponibiliza arquitetura e documentação técnica, não um blueprint importável ou uma aplicação executável localmente.
 
+
+## English overview
+
+A documented Make automation prototype for email triage and contextual responses related to Oracle Cloud Applications. Gmail, Gemini and Google Drive support classification, knowledge grounding and conditional routing, with out-of-scope messages directed to human review. The repository provides architecture and documentation, not an importable blueprint or standalone executable.
+
 ---
 
 ## Visão Geral
